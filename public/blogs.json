@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/f2Z7MqL/office-supplies.jpg",
+      "title": "The Art of Cooking",
+      "author": "John Doe",
+      "img": "https://example.com/author1.jpg",
+      "posted_date": "2023-09-30",
+      "reading_time": "10 minutes",
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/f2Z7MqL/office-supplies.jpg",
+      "title": "Exploring Nature's Wonders",
+      "author": "Jane Smith",
+      "img": "https://example.com/author2.jpg",
+      "posted_date": "2023-09-29",
+      "reading_time": "8 minutes",
+      "hashtags": ["nature", "outdoors", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/s5yDvMV/laptop-camera-colorful-background.jpg",
+      "title": "Tech Trends for 2024",
+      "author": "David Johnson",
+      "img": "https://example.com/author3.jpg",
+      "posted_date": "2023-09-28",
+      "reading_time": "12 minutes",
+      "hashtags": ["technology", "future", "innovation"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/f2Z7MqL/office-supplies.jpg",
+      "title": "The Power of Mindfulness",
+      "author": "Emily Brown",
+      "img": "https://example.com/author4.jpg",
+      "posted_date": "2023-09-27",
+      "reading_time": "7 minutes",
+      "hashtags": ["mindfulness", "wellness", "meditation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/Pz1bcHf/hand-planning-blank-paper-1.jpg",
+      "title": "Travel Tales: Paris Adventure",
+      "author": "Michael Lee",
+      "img": "https://example.com/author5.jpg",
+      "posted_date": "2023-09-26",
+      "reading_time": "15 minutes",
+      "hashtags": ["travel", "adventure", "Paris"]
+    }
+  ]
+  
